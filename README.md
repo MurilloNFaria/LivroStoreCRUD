@@ -7,7 +7,7 @@
   
     "ConnectionStrings": {
     "LivroConnection": "Server=localhost;Database=LivrosStore;User={nome de usuario};Password={senha};"
-  }
+  
 
   Modifique neste formato, aplique ao arquivo e funcionará DESDE QUE você tenha o MySql instalado na máquina
 </h4>
